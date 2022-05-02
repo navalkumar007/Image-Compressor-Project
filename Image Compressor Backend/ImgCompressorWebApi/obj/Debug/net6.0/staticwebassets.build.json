@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "iId71XgX3q+FO5tFyOX+l6C80cdhvIS5N/fkUoo56dU=",
+  "Source": "ImgCompressorWebApi",
+  "BasePath": "_content/ImgCompressorWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImgCompressorWebApi\\wwwroot",
+      "Source": "ImgCompressorWebApi",
+      "ContentRoot": "F:\\Image Compressor Youtube\\New folder (2)\\Image Compressor Backend\\ImgCompressorWebApi\\wwwroot\\",
+      "BasePath": "_content/ImgCompressorWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

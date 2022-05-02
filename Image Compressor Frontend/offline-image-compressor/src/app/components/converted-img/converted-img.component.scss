@@ -1,0 +1,48 @@
+.converted-img-container {
+  // margin-top: 1.5rem;
+  text-align: initial;
+  width: 100%;
+  margin: 2% auto;
+  position: relative;
+  border: none;
+
+  .single-file {
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+    border: dashed 1px #979797;
+    margin-bottom: 1rem;
+
+    .downloadedImg {
+      display: block;
+      margin-right: 8px;
+      width: 45px;
+      height: 45px;
+      object-fit: contain;
+    }
+
+    display: flex;
+    flex-grow: 1;
+
+    .name {
+      font-size: 1.05rem;
+      font-weight: 500;
+      color: green;
+      margin: 0;
+    }
+
+    .size {
+      font-size: 1rem;
+      font-weight: 500;
+      font-style: italic;
+      color: red;
+      margin: 0;
+      margin-bottom: 0.25rem;
+    }
+
+    .info {
+      width: 100%;
+    }
+  }
+}

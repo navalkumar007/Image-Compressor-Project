@@ -1,0 +1,26 @@
+<div class="dropzone-container">
+  <div class="content-wrapper" [ngStyle]="{ display: uploadedImg ? 'none' : 'block' }">
+    <input type="file" id="imgDropRef" accept="image/png, image/jpeg" (change)="onChange($event)" />
+    <span class="fileTypeLabelLeft">(Types Allowed: </span>
+    <span class="fileTypeValue">.jpg, .png </span>
+    <span class="fileTypeLabelRight">)</span>
+    <h3>Drop Your File Here</h3>
+    <h3>Or</h3>
+    <label for="imgDropRef">Choose a file</label>
+  </div>
+
+  <div class="dropzone-thumb">
+    <div class="img-wrapper" *ngIf="uploadedImg" [attr.data-label]="uploadedfileName">
+      <img [src]="uploadedImg" alt="" />
+      <div class="overlay" [attr.data-label]="currentfileSize"></div>
+    </div>
+    <app-progress-bar [barWidth]="uploadBarWidth"></app-progress-bar>
+  </div>
+
+  <app-converted-img [downloadImg]="downloadImg" [downloadedFileName]="downloadedfileName"
+    [downloadedFileSize]="downloadFileSize" [downloadBarWidth]="downloadBarWidth" *ngIf="showDownloadSection">
+  </app-converted-img>
+
+  <app-button (btnClick)="reloadCurrentPage()" text="Clear" [isDisabled]="false" *ngIf="showDownloadSection" [icon]="faArrowsRotate">
+  </app-button>
+</div>

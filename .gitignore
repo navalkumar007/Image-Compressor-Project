@@ -1,0 +1,43 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/Image Compressor Frontend/offline-image-compressor/dist
+/Image Compressor Frontend/offline-image-compressor/tmp
+/Image Compressor Frontend/offline-image-compressor//out-tsc
+/Image Compressor Frontend/offline-image-compressor/bazel-out
+
+# Node
+/Image Compressor Frontend/offline-image-compressor/node_modules
+/Image Compressor Frontend/offline-image-compressor/npm-debug.log
+/Image Compressor Frontend/offline-image-compressor/yarn-error.log
+
+# IDEs and editors
+/Image Compressor Frontend/offline-image-compressor/.idea/
+/Image Compressor Frontend/offline-image-compressor/.project
+/Image Compressor Frontend/offline-image-compressor/.classpath
+/Image Compressor Frontend/offline-image-compressor/.c9/
+/Image Compressor Frontend/offline-image-compressor/*.launch
+/Image Compressor Frontend/offline-image-compressor/.settings/
+/Image Compressor Frontend/offline-image-compressor/*.sublime-workspace
+
+# Visual Studio Code
+/Image Compressor Frontend/offline-image-compressor/.vscode/*
+/Image Compressor Frontend/offline-image-compressor/!.vscode/settings.json
+/Image Compressor Frontend/offline-image-compressor/!.vscode/tasks.json
+/Image Compressor Frontend/offline-image-compressor/!.vscode/launch.json
+/Image Compressor Frontend/offline-image-compressor/!.vscode/extensions.json
+/Image Compressor Frontend/offline-image-compressor/.history/*
+/Image Compressor Project/Image Compressor Backend/.vscode/*
+
+# Miscellaneous
+/Image Compressor Frontend/offline-image-compressor/.angular/cache
+/Image Compressor Frontend/offline-image-compressor/.sass-cache/
+/Image Compressor Frontend/offline-image-compressor/connect.lock
+/Image Compressor Frontend/offline-image-compressor/coverage
+/Image Compressor Frontend/offline-image-compressor/libpeerconnection.log
+/Image Compressor Frontend/offline-image-compressor/testem.log
+/Image Compressor Frontend/offline-image-compressor/typings
+
+# System files
+/Image Compressor Frontend/offline-image-compressor/.DS_Store
+/Image Compressor Frontend/offline-image-compressor/Thumbs.db

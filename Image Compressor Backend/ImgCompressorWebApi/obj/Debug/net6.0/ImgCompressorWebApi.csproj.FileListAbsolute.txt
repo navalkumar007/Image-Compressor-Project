@@ -1,0 +1,129 @@
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.exe
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.deps.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.runtimeconfig.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET-Q16-AnyCPU.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET.Core.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.AssemblyReference.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.ResolveComReference.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfoInputs.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfo.cs
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CoreCompileInputs.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\scopedcss\bundle\ImgCompressorWebApi.styles.css
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CopyComplete
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\refint\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.genruntimeconfig.cache
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ref\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.staticwebassets.runtime.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.staticwebassets.runtime.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.exe
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.deps.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.runtimeconfig.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET-Q16-AnyCPU.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET.Core.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.AssemblyReference.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.ResolveComReference.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfoInputs.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfo.cs
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CoreCompileInputs.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\scopedcss\bundle\ImgCompressorWebApi.styles.css
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CopyComplete
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\refint\ImgCompressorWebApi.dll
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.genruntimeconfig.cache
+F:\Repos\Image Compressor Project\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ref\ImgCompressorWebApi.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\appsettings.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.staticwebassets.runtime.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.exe
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.deps.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.runtimeconfig.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET-Q16-AnyCPU.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Magick.NET.Core.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.AssemblyReference.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.ResolveComReference.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfoInputs.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.AssemblyInfo.cs
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CoreCompileInputs.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\scopedcss\bundle\ImgCompressorWebApi.styles.css
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.csproj.CopyComplete
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\refint\ImgCompressorWebApi.dll
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.pdb
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ImgCompressorWebApi.genruntimeconfig.cache
+F:\Image Compressor Youtube\New folder (2)\Image Compressor Backend\ImgCompressorWebApi\obj\Debug\net6.0\ref\ImgCompressorWebApi.dll

@@ -1,0 +1,6 @@
+<div class="progress progress-striped active" *ngIf="barWidth != '0%'" [style.height]="barHeight" [style.margin-top]="marginTop">
+  <span class="progress-bar-label" [innerHTML]="barWidth" *ngIf="showTxtLabel"></span>
+  <div role="progressbar progress-striped" [style.width]="barWidth" [style.background-color]="barColor" class="progress-bar">
+    <span></span>
+  </div>
+</div>

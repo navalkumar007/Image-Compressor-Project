@@ -1,0 +1,15 @@
+<div class="converted-img-container">
+  <div class="single-file">
+    <img [src]="downloadImg" alt="" class="downloadedImg">
+    <div class="info">
+      <h4 class="name">
+       {{downloadedFileName}}
+      </h4>
+      <p class="size">
+        {{downloadedFileSize}}
+      </p>
+      <app-progress-bar [barWidth]="downloadBarWidth" [barHeight]="'10px'" [marginTop]="'0'" [showTxtLabel]="false" [barColor]="'orange'"></app-progress-bar>
+    </div>
+
+  </div>
+</div>

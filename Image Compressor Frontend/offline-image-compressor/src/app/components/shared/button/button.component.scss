@@ -1,0 +1,13 @@
+.btn {
+	background: rgb(228, 131, 41);
+	border-radius: 2px;
+	color: white;
+	font-weight: 400;
+	height: 45px;
+	font-size: 0.75rem;
+	border: 0px;
+
+	&:hover {
+		background-color: orange;
+	}
+}
